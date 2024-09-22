@@ -3,6 +3,7 @@
 ## **Project Overview** 🚀
 This project involves a comprehensive analysis of **Blinkit's** sales data, aimed at understanding the sales performance, customer satisfaction, and inventory distribution. The analysis uses **Power BI** to identify key insights and opportunities for optimization across various KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Customer Rating.
 
+![BlinkIT Dashboard Snapshot](https://github.com/user-attachments/assets/e6f79a49-2f3b-4444-8424-2d066e4827d2)
 ---
 
 ## **Steps in Project** 🛠️
@@ -88,7 +89,6 @@ The primary objective of this project is to perform a detailed analysis of **Bli
    **Objective**: Provide a detailed breakdown of all KPIs (Total Sales, Average Sales, Number of Items, Average Rating) by outlet type.  
    **Chart Type**: Matrix Card
    
-![BlinkIT Dashboard Snapshot](https://github.com/user-attachments/assets/e6f79a49-2f3b-4444-8424-2d066e4827d2)
 ---
 
 ## **Technology Stack** 💻
