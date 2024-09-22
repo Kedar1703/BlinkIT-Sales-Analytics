@@ -87,7 +87,8 @@ The primary objective of this project is to perform a detailed analysis of **Bli
 7. **All Metrics by Outlet Type**  
    **Objective**: Provide a detailed breakdown of all KPIs (Total Sales, Average Sales, Number of Items, Average Rating) by outlet type.  
    **Chart Type**: Matrix Card
-
+   
+![BlinkIT Dashboard Snapshot](https://github.com/user-attachments/assets/e6f79a49-2f3b-4444-8424-2d066e4827d2)
 ---
 
 ## **Technology Stack** 💻
