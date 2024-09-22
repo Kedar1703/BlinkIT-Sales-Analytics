@@ -110,7 +110,7 @@ The primary objective of this project is to perform a detailed analysis of **Bli
 ---
 
 ## **How to Use the Dashboard** 🚦
-1. **Download the Power BI File**: [Blinkit_Sales_Analytics.pbix](BlinkIT Sales Analytics.pbix)
+1. **Download the Power BI File**: [Blinkit_Sales_Analytics.pbix]([BlinkIT Sales Analytics.pbix](https://github.com/Kedar1703/BlinkIT-Sales-Analytics/blob/main/BlinkIT%20Sales%20Analytics.pbix))
 2. **Open in Power BI Desktop**: Ensure Power BI Desktop is installed on your system.
 3. **Explore the Dashboard**: Use the available filters and slicers to drill down into the data and uncover more specific insights.
 
